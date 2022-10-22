@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Website Name Goes Here</title>
+
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+</head>
+
+<body>
+	<a href="https://youtu.be/dQw4w9WgXcQ/" class="rightLinks">Account</a>
+	<a href="https://youtu.be/dQw4w9WgXcQ" class="leftLinks">Shop by Catagory</a>
+	<a href="https://youtu.be/dQw4w9WgXcQ" class="leftLinks">Suggested Packs</a>
+	<a href="https://youtu.be/dQw4w9WgXcQ" class="leftLinks">My Packages</a>
+	 
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<h1 class="CenteredHeading">How Care Pack Works:</h1>
+	
+	<p class="ParagraphText">Care Pack allows you to schedule regular deliveries of common goods, so you never run out of
+	your favorite items. We offer a wide range of personal care, household, cleaning and pet care products, in order
+	to save you time spend rushing to the store.</p>
+
+	<br><br><br><br><br><br>
+	<p class="ParagraphTextCentered">Setting up a pack is easy:</p>
+
+	<table class="tableCentered" align="center">
+  		<tr>
+   			<th class="tablesHomepageHeaderLeft">Shop</th>
+    			<th class="tablesHomepageHeaderRight">Set Re-Order</th>
+			<th class="tablesHomepageHeaderRight">Add Item</th>
+			<th class="tablesHomepageHeaderRight">Finish Care Pack</th>
+
+  		</tr>
+  		<tr>
+    			<td class="tablesHomepageTextLeft">Fill up your carepack with dozens of online products and set a quantity of each item.</td>
+    			<td class="tablesHomepageTextRight">Select how frequently you want to re-order your product, from every two weeks to every six months.</td>
+			<td class="tablesHomepageTextRight">Simply click "Add Item" and your item will appear in your care pack. Repeat these steps until
+			you have a care pack full of all the items you want.</td>
+			<td class="tablesHomepageTextRight">Click "Finish Care Pack" and select a date for your first delivery, also spend some time
+			looking over your orders. Finally, click "Check Out" and your care pack will be created and stored until the date of delivery.</t		
+  		</tr>
+	</table>
+
+	<br><br><br><br><br><br><br><br>
+	<p class="ParagraphTextCentered">Modifying a Care Pack:</p>
+	
+	<br><br>
+	<p class="ParagraphText">After you create your Care Pack, you will be able to access it by clicking "My Account".</p>
+
+	<table class="tableCentered" align="center">
+  		<tr>
+   			<th class="tablesHomepageHeaderLeft">Edit</th>
+    			<th class="tablesHomepageHeaderRight">Skip</th>
+			
+
+  		</tr>
+  		<tr>
+    			<td class="tablesHomepageTextLeft">You can add, delete, change the frequency or quantity for any item in your Care Pack before 7 days before your delivery date.</td>
+    			<td class="tablesHomepageTextRight">For any items you don't need, you can skip the item for your next order. After that delivery is skipped the item will be automatically 
+			re-added. If you want an item for only one purchase you also have the option to add an item for one purchase only.</td>
+		</tr>
+	</table>
+
+	<br><br><br><br><br><br><br><br>
+	<p class="ParagraphTextCentered">Return an Item:</p>
+	
+	<br><br>
+	<p class="ParagraphText">If you would like to return an item for a refund just follow these steps: </p>
+
+	<table class="tableCentered" align="center">
+  		<tr>
+   			<th class="tablesHomepageHeaderLeft">Select Item</th>
+    			<th class="tablesHomepageHeaderLeft">Schedule Date</th>
+			<th class="tablesHomepageHeaderRight">Return Items</th>
+			
+
+  		</tr>
+  		<tr>
+    			<td class="tablesHomepageTextLeft">Go to your purchase history on the website, under the tab "My Account", and select the items you want to return. If there were any problems that caused
+			you to want to return the items such as it being the wrong item, or you had already canceled it, please specify why so we can note what wend wrong.</td>
+			<td class="tablesHomepageTextLeft">Schedule a date to return the items.</td>
+    			<td class="tablesHomepageTextRight">Place the items you are returning by your front door and someone will come pick them up. You will then find your refund on your account.</td>
+		</tr>
+	</table>
+
+	<br><br><br><br><br><br><br><br>
+	<p class="ParagraphTextCentered">20% Off Rate and Fixed Price Guarentee</p>
+	
+	<br><br>
+	
+	<table class="tableCentered" align="center">
+  		<tr>
+   			<th class="tablesHomepageHeaderLeft">20% Off</th>
+			<th class="tablesHomepageHeaderRight">Fixed Price</th>
+			
+
+  		</tr>
+  		<tr>
+    			<td class="tablesHomepageTextLeft">When you order 5 or more items in your care pack, you will recieve 20% off your entire purchase!</td>
+    			<td class="tablesHomepageTextRight">We at Care Pack offer the best prices in the industry and we want to keep it that way. When you first select an item we will guarentee to not
+			change the price of the item for your next 2 purchases. If we do decide to change the price of the item you are ordering, you will recieve a notification in your account, along
+			with an email informing you of the next change. Your price for the item will not change for 30 days after the email is sent.</td>
+		</tr>
+	</table>
+
+	<br><br><br>
+	<p class="ParagraphTextCentered">Are you ready to get started?</p>
+
+	<br><br><br><br>
+	<a href="https://youtu.be/dQw4w9WgXcQ/" class="createAccount">Create Account</a>
+	<br><br>
+	<a href="https://youtu.be/dQw4w9WgXcQ/" class="logIn">Log In</a>
+	
+
+
+
+</body>
+
+</html>
