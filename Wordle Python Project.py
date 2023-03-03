@@ -9,9 +9,7 @@ intro()
 #----------------------------------Lists & Imports----------------------------------------
 
 import json
-import requests
 import urllib
-import enchant
 
 templist = []
 unknowns = []
